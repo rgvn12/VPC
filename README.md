@@ -14,7 +14,7 @@
     <img src="images/minifig.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">myaws.rocks vpc 101</h3>
+<h3 align="center">vpc</h3>
 
   <p align="center">
     How to build a VPC demo
