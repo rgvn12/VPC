@@ -1,31 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-<br>
-[![VPC 101 on myaws.rocks][website-shield]][website-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/myawsrocks/vpc101">
-    <img src="images/minifig.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">myaws.rocks vpc 101</h3>
-
-  <p align="center">
-    How to build a VPC demo
-    <br />
-    <br />
-    <a href="https://github.com/myawsrocks/vpc101/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/myawsrocks/vpc101/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
