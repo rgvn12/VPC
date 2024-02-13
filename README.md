@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/myawsrocks/vpc101">
+  <a href="https://github.com/rgvn12/VPC">
     <img src="images/minifig.png" alt="Logo" width="80" height="80">
   </a>
 
